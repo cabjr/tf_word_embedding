@@ -11,7 +11,7 @@
   <img src="assets/demo_screen.gif">
 </p-->
 
-- Repository that will contain several ways of getting word embeddings by using tensorflow models with different approaches.
+- Repository that contains several ways of getting word embeddings by using tensorflow models with different approaches.
 
 
 
